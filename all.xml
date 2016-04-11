@@ -11,5 +11,11 @@
 <jsonrpc>plugin://plugin.video.ccloudtv/?mode=2&amp;name=%5bCOLOR%20yellow%5d%5bB%5dAll%20Channels%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fwww.youtube.com&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.ccloudtv%5Cfanart.jpg%26_options_sf</jsonrpc>
 </item>
 
+	<item>
+<title>All 2</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.channelpear/?fanart=https%3a%2f%2fchannelpear.com%2fimages%2fkiwi_new.jpg&amp;mode=1&amp;name=All%20Channels&amp;url=https%3a%2f%2fchannelpear.com%2fassets%2fm3u%2f%3fuserid%3d10516%26key%3ddee517621c8188c07881463f05eba20093e4073e&amp;sf_options=fanart%3Dhttps%3A%2F%2Fchannelpear.com%2Fimages%2Fkiwi_new.jpg%26_options_sf</jsonrpc>
+</item>
+
 	</items>
 	</channel>
