@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+	
+	<channel>
+    <items>
+
+	<item>
+<title>New Movies</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=featured&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cscript.exodus.artwork%5Cresources%5Cmedia%5Cexodus%5Cfanart.jpg%26_options_sf</jsonrpc>
+</item>
+
+	</items>
+	</channel>
