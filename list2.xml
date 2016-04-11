@@ -9,8 +9,7 @@
 	<item>
 <title>Search 1</title>
 <link>ignorame</link>
-<externallink>plugin://plugin.video.ccloudtv/?&mode=99&name=%5bCOLOR%20red%5d%5bB
-%5dSearch%5b%2fB%5d%5b%2fCOLOR%5d&url=searchlink</externallink>
+<jsronpc>plugin%3A%2F%2Fplugin.video.ccloudtv%2F%3F%26mode%3D99%26name%3D%255bCOLOR%2520red%255d%255bB%0D%0A%255dSearch%255b%252fB%255d%255b%252fCOLOR%255d%26url%3Dsearchlink</jsronpc>
 </item>
 
 	</items>
