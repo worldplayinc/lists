@@ -2,7 +2,7 @@
 <items>
 
 <item>
-<title>              [COLOR skyblue][B]CREDITS TO: adrian.bu@gmail.com/A D R Y A N [/COLOR][COLOR deepskyblue]L I S T[/B][/COLOR]   </title>
+<title>[COLOR skyblue][B]CREDITS TO: adrian.bu@gmail.com/A D R Y A N [/COLOR][COLOR deepskyblue]L I S T[/B][/COLOR]</title>
 <link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 </item>
 
@@ -10,6 +10,12 @@
 <title>Search</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/list2.xml</externallink>
+</item>
+
+<item>
+<title>All</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/all.xml</externallink>
 </item>
 
 </items>
