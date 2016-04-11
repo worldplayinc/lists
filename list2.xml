@@ -9,7 +9,10 @@
 	<item>
 <title>Search 1</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ccloudtv/','614','?iconimage=C%3a%5cUsers%5czach%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.ccloudtv%5cresources%2ficons%2f%2fsearch.png&mode=99&name=%5bCOLOR%20red%5d%5bB%5dSearch%5b%2fB%5d%5b%2fCOLOR%5d&url=searchlink</jsonrpc>
+<jsonrpc>plugin://plugin.video.ccloudtv/?iconimage=C%3a
+%5cUsers%5czach%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.ccloudtv
+%5cresources%2ficons%2f%2fsearch.png&mode=99&name=%5bCOLOR%20red%5d%5bB
+%5dSearch%5b%2fB%5d%5b%2fCOLOR%5d&url=searchlink</jsonrpc>
 </item>
 
 	</items>
