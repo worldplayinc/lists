@@ -9,7 +9,7 @@
 	<item>
 <title>Search 1</title>
 <link>ignorame</link>
-<jsonrpc>plugin://plugin.video.ccloudtv/?&mode=99&name=[COLOR red][B]Search[/B][/COLOR]&url=searchlink</jsonrpc>
+<jsonrpc>plugin://plugin.video.ccloudtv/?%26mode=99%26name=[COLOR red][B]Search[/B][/COLOR]%26url=searchlink</jsonrpc>
 </item>
 
 	</items>
