@@ -49,10 +49,17 @@
 </item>
 
 <item>
-<title>24/7 TV Shows</title>
+<title>24/7 Movies/Shows</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/247.xml</externallink>
 </item>
+
+<item>
+<title>On Demand</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/ondemand.xml</externallink>
+</item>
+
 </items>
 
 
