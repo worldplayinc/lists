@@ -17,5 +17,29 @@
 <jsonrpc>plugin://plugin.video.channelpear/?</jsonrpc>
 </item>
 
+	<item>
+<title>Stallion IPTV - Medium List</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.Stallion-IPTV/?</jsonrpc>
+</item>
+
+	<item>
+<title>Husham - Medium List</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.hushamiptv/?</jsonrpc>
+</item>
+
+	<item>
+<title>Sports Devil - Medium List</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.sportsdevil/?</jsonrpc>
+</item>
+
+	<item>
+<title> - Medium List</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?</jsonrpc>
+</item>
+
 	</items>
 	</channel>
