@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<item>
-<title>[COLOR skyblue][B]CREDITS TO: adrian.bu@gmail.com/A D R Y A N [/COLOR][COLOR deepskyblue]L I S T[/B][/COLOR]</title>
-<link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-</item>
 
 <item>
 <title>Search</title>
@@ -61,9 +57,15 @@
 </item>
 
 <item>
-<title>New Movies</title>
+<title>Local U.S. Channels</title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/movies.xml</externallink>
+<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/local.xml</externallink>
+</item>
+
+<item>
+<title>International Channels</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/international.xml</externallink>
 </item>
 
 </items>
