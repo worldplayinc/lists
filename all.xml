@@ -23,11 +23,6 @@
 <jsonrpc>plugin://plugin.video.Stallion-IPTV/?</jsonrpc>
 </item>
 
-	<item>
-<title>Husham - Medium List</title>
-<link>ignorame</link>
-<jsonrpc>plugin://plugin.video.hushamiptv/?</jsonrpc>
-</item>
 
 	<item>
 <title>Sports Devil - Medium List</title>
