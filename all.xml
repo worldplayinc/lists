@@ -4,6 +4,12 @@
 	
 	<channel>
     <items>
+    	
+	<item>
+<title>Channel Pear - Medium List</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.channelpear/?</jsonrpc>
+</item>
 
 	<item>
 <title>Castaway - Big List</title>
@@ -12,17 +18,10 @@
 </item>
 
 	<item>
-<title>Channel Pear - Medium List</title>
-<link>ignorame</link>
-<jsonrpc>plugin://plugin.video.channelpear/?</jsonrpc>
-</item>
-
-	<item>
 <title>Stallion IPTV - Medium List</title>
 <link>ignorame</link>
 <jsonrpc>plugin://plugin.video.Stallion-IPTV/?</jsonrpc>
 </item>
-
 
 	<item>
 <title>Sports Devil - Medium List</title>
