@@ -32,14 +32,9 @@
 	<item>
 <title>Sports Devil - Medium List</title>
 <link>ignorame</link>
-<jsonrpc>plugin://plugin.video.sportsdevil/?</jsonrpc>
-</item>
-
-	<item>
-<title> - Medium List</title>
-<link>ignorame</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?</jsonrpc>
 </item>
+
 
 	</items>
 	</channel>
