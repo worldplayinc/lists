@@ -4,13 +4,13 @@
 
 <item>
 <title>Search</title>
-<thumbnail>special://skin/extras/hometiles/livetv.png</thumbnail>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/list2.xml</externallink>
 </item>
 
 <item>
 <title>All Live TV</title>
+<thumbnail>special://skin/extras/hometiles/Untitled-1.png</thumbnail>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/all.xml</externallink>
 </item>
