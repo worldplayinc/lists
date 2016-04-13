@@ -3,71 +3,12 @@
 
 
 <item>
-<title>Search</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/list2.xml</externallink>
-</item>
-
-<item>
 <title>All Live TV</title>
 <thumbnail>special://skin/extras/hometiles/Untitled-1.png</thumbnail>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/all.xml</externallink>
 </item>
 
-<item>
-<title>News</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/news.xml</externallink>
-</item>
-
-<item>
-<title>Sports</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/sports.xml</externallink>
-</item>
-
-<item>
-<title>Entertainment</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/entertainment.xml</externallink>
-</item>
-
-<item>
-<title>Family</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/family.xml</externallink>
-</item>
-
-<item>
-<title>History & Science</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/has.xml</externallink>
-</item>
-
-<item>
-<title>24/7 TV Shows</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/247.xml</externallink>
-</item>
-
-<item>
-<title>On Demand</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/ondemand.xml</externallink>
-</item>
-
-<item>
-<title>Local U.S. Channels</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/local.xml</externallink>
-</item>
-
-<item>
-<title>International Channels</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/worldplayinc/lists/master/international.xml</externallink>
-</item>
 
 </items>
 
