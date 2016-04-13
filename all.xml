@@ -5,6 +5,12 @@
 	<channel>
     <items>
     	
+        <item>
+<title>Ccloud TV - Big List - (EXPERIMENTAL)</title>
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.ccloudtv/?</jsonrpc>
+</item>
+    	
 	<item>
 <title>Channel Pear - Medium List</title>
 <link>ignorame</link>
